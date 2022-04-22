@@ -33,7 +33,7 @@
 | **Kerang Ajaib** |[✔️](https://github.com/xtreshebot) |
 | **Quotes** |[✔️](https://github.com/xtreshebot) |
 | **Anime** |[✔️](https://github.com/xtreshebot) |
-| **Premium** |[✖️](https://github.com/xtreshebot) |
+| **Premium** |[✔️](https://github.com/xtreshebot) |
 | **Tools** |[✔️](https://github.com/xtreshebot) |
 | **Exec** |[✔️](https://github.com/xtreshebot) |
 
