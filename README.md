@@ -227,6 +227,8 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ### Thanks To 
 **Allah SWT**,
 
+**Tedy bot**,
+
 **Orang Tua**,
 
 **Semua yang selalu mendukung**
